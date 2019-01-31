@@ -18,9 +18,9 @@ https://www.netsarang.com/products/xme_overview.html
 
 ![Snipaste_2018-10-20_02-20-47.png](https://whitecell.io/upload/attach/201810/151_5RNQ8WT4VD4M3H8.png "Snipaste_2018-10-20_02-20-47.png")
 
-比如我的下载地址是 `https://cdn.netsarang.net/edaade15/XmanagerPowerSuite-6.0.0012r.exe`
+比如我的下载地址是 `https://cdn.netsarang.net/53f70531/XmanagerPowerSuite-6.0.0013r.exe`
 
-修改之后下载地址是 `https://cdn.netsarang.net/b8516424/XmanagerPowerSuite-6.0.0010r.exe`
+修改之后下载地址是 `https://cdn.netsarang.net/53f70531/XmanagerPowerSuite-6.0.0013r.exe`
 
 这就是注册版文件的最新版本。
 
@@ -30,7 +30,7 @@ https://www.netsarang.com/products/xme_overview.html
 REG DELETE HKEY_CURRENT_USER\Software\NetSarang /f
 ```
 
-* 第四步：添加 HOSTS 信息。
+* 第四步：添加 HOSTS 信息。【可以省略】
 
 ```txt
 127.0.0.1 transact.netsarang.com
@@ -171,33 +171,31 @@ GitHub 的 Python 程序中没有 Xshell Plus 的代码，因此可以使用上�
 官方下载地址：
 
 ```txt
-https://www.netsarang.com/zh/downloading/?token=UnZwQ08tRmhLTzdkdnFjRGJfRHVKZ0ByZDl5SHA0UFdFU21WOHhoci1FUFl3
+Xmanager power suit 6 Build 0013, Jan 30, 2019
 
-https://cdn.netsarang.net/edaade15/Xmanager-6.0.0105.exe
+https://cdn.netsarang.net/53f70531/XmanagerPowerSuite-6.0.0013r.exe
 
-https://cdn.netsarang.net/edaade15/Xmanager-6.0.0105.exe
+XshellPlus 6 Build 0013, Jan 30, 2019
 
-https://www.netsarang.com/zh/downloading/?token=ZWJHc1NMSGNXWDlGUXU2T3VId2hYUUByZDl5SHA0UFdFU21WOHhoci1FUFl3
+https://cdn.netsarang.net/53f70531/XshellPlus-6.0.0013r.exe
 
-https://cdn.netsarang.net/edaade15/XmanagerPowerSuite-6.0.0012.exe
+Xshell 6 Build 0114, Jan 30, 2019
 
-https://cdn.netsarang.net/edaade15/XmanagerPowerSuite-6.0.0012.exe
+https://cdn.netsarang.net/53f70531/Xshell-6.0.0114r.exe
 
-最新版本 XmanagerPowerSuite 6 全家桶
+Xftp 6 Build 0108, Jan 30, 2019
 
-https://cdn.netsarang.net/edaade15/XmanagerPowerSuite-6.0.0012r.exe
+https://download.netsarang.com/53f70531/Xftp-6.0.0108r.exe
 
-https://download.netsarang.com/edaade15/XmanagerPowerSuite-6.0.0012r.exe
+Xmanager 6 Build 0108, Jan 30, 2019
 
-https://download.netsarang.com/edaade15/XshellPlus-6.0.0012r.exe
+https://cdn.netsarang.net/53f70531/Xmanager-6.0.0108r.exe
 
-https://download.netsarang.com/edaade15/Xshell-6.0.0111r.exe
+Xlpd 6 Build 0105, Jan 30, 2019
 
-https://download.netsarang.com/edaade15/Xftp-6.0.0105r.exe
+https://cdn.netsarang.net/53f70531/Xlpd-6.0.0105r.exe
 
-https://download.netsarang.com/edaade15/Xmanager-6.0.0105r.exe
-
-破解补丁：
+注册码：190131-116699-999254
 
 gitlab仓库集合大全，选择其中任意一个仓库即可：
 
@@ -237,6 +235,10 @@ https://gitlab.flux.utah.edu/masuit/soft(可能有延迟)
 
 https://git.maxr.org/ldqk/soft
 
+蓝奏云：https://www.lanzous.com/b529249/
+
+其他稀缺资源：https://yun.naodai.org/Software/
+
 最后一击：
 
 https://gitlab.com/masuit/soft
@@ -245,6 +247,6 @@ https://gitlab.com/masuit/soft
 ------
 
 作者 [@Mannix][1]     
-2019 年 1月 15日
+2019 年 1月 31日
 
 [1]: http://mannix.top/
