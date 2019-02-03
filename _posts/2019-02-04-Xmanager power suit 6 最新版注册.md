@@ -18,9 +18,9 @@ https://www.netsarang.com/products/xme_overview.html
 
 ![Snipaste_2018-10-20_02-20-47.png](https://whitecell.io/upload/attach/201810/151_5RNQ8WT4VD4M3H8.png "Snipaste_2018-10-20_02-20-47.png")
 
-比如我的下载地址是 `https://cdn.netsarang.net/53f70531/XmanagerPowerSuite-6.0.0013r.exe`
+比如我的下载地址是 `https://cdn.netsarang.net/4e3c2e03/XmanagerPowerSuite-6.0.0014r.exe`
 
-修改之后下载地址是 `https://cdn.netsarang.net/53f70531/XmanagerPowerSuite-6.0.0013r.exe`
+修改之后下载地址是 `https://cdn.netsarang.net/4e3c2e03/XmanagerPowerSuite-6.0.0014r.exe`
 
 这就是注册版文件的最新版本。
 
@@ -171,27 +171,31 @@ GitHub 的 Python 程序中没有 Xshell Plus 的代码，因此可以使用上�
 官方下载地址：
 
 ```txt
-Xmanager power suit 6 Build 0013, Jan 30, 2019
+Xmanager power suit 6 Build 0014, Feb 01, 2019
 
-https://cdn.netsarang.net/53f70531/XmanagerPowerSuite-6.0.0013r.exe
+https://cdn.netsarang.net/4e3c2e03/XmanagerPowerSuite-6.0.0014r.exe
 
-XshellPlus 6 Build 0013, Jan 30, 2019
+XshellPlus 6 Build 0014, Feb 01, 2019
 
-https://cdn.netsarang.net/53f70531/XshellPlus-6.0.0013r.exe
+https://cdn.netsarang.net/4e3c2e03/XshellPlus-6.0.0014r.exe
 
-Xshell 6 Build 0114, Jan 30, 2019
+Xshell 6 Build 0115, Feb 01, 2019
 
-https://cdn.netsarang.net/53f70531/Xshell-6.0.0114r.exe
+https://cdn.netsarang.net/4e3c2e03/Xshell-6.0.0115r.exe
 
-Xftp 6 Build 0108, Jan 30, 2019
+Xftp 6 Build 0109, Feb 01, 2019
 
-https://download.netsarang.com/53f70531/Xftp-6.0.0108r.exe
+https://download.netsarang.com/4e3c2e03/Xftp-6.0.0109r.exe
 
-Xmanager 6 Build 0108, Jan 30, 2019
+Xmanager 6 Build 0109, Feb 01, 2019
 
-https://cdn.netsarang.net/53f70531/Xmanager-6.0.0108r.exe
+https://cdn.netsarang.net/4e3c2e03/Xmanager-6.0.0109r.exe
 
-Xlpd 6 Build 0105, Jan 30, 2019
+Xlpd 6 Build 0106, Feb 01, 2019
+
+https://cdn.netsarang.net/4e3c2e03/Xlpd-6.0.0106r.exe
+
+注册码：190131-116699-999254
 
 https://cdn.netsarang.net/53f70531/Xlpd-6.0.0105r.exe
 
