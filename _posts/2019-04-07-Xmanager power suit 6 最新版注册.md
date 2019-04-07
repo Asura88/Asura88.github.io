@@ -16,7 +16,7 @@ https://www.netsarang.com/zh/all-downloads/
 
 * 第二步：将下载地址复制下来，并在 `.exe` 之前加上字母 `r`。
 
-(![image.png](https://whitecell.io/upload/attach/201904/_WUR876YC9K5B2XR.png)
+![image.png](https://whitecell.io/upload/attach/201904/_WUR876YC9K5B2XR.png)
 
 比如我的下载地址是 `https://cdn.netsarang.net/b90b1607/XmanagerPowerSuite-6.0.0017.exe`
 
