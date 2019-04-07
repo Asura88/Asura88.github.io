@@ -9,18 +9,18 @@ Xmanger Power Suit 官方其实有两种 `.exe` 文件，一个是用于试用�
 * 第一步：到 `Xmanager Power Suit` 页面点击 `Download`，并填写一些信息，试用版的下载链接就会发至邮箱。
 
 ```txt
-https://www.netsarang.com/products/xme_overview.html
+https://www.netsarang.com/zh/all-downloads/
 ```
 
-![Snipaste_2018-10-20_02-18-16.png](https://whitecell.io/upload/attach/201810/151_69N9VM8UNHEWZG2.png "Snipaste_2018-10-20_02-18-16.png")
+![image.png](https://whitecell.io/upload/attach/201904/_WUR876YC9K5B2XR.png)
 
 * 第二步：将下载地址复制下来，并在 `.exe` 之前加上字母 `r`。
 
-![Snipaste_2018-10-20_02-20-47.png](https://whitecell.io/upload/attach/201810/151_5RNQ8WT4VD4M3H8.png "Snipaste_2018-10-20_02-20-47.png")
+(![image.png](https://whitecell.io/upload/attach/201904/_WUR876YC9K5B2XR.png)
 
-比如我的下载地址是 `https://cdn.netsarang.net/4e3c2e03/XmanagerPowerSuite-6.0.0014r.exe`
+比如我的下载地址是 `https://cdn.netsarang.net/b90b1607/XmanagerPowerSuite-6.0.0017.exe`
 
-修改之后下载地址是 `https://cdn.netsarang.net/4e3c2e03/XmanagerPowerSuite-6.0.0014r.exe`
+修改之后下载地址是 `https://cdn.netsarang.net/b90b1607/XmanagerPowerSuite-6.0.0017r.exe`
 
 这就是注册版文件的最新版本。
 
@@ -103,59 +103,21 @@ C:\Users\Foair\Desktop\Xmanager-keygen>Xmanager-keygen.py
 
 ### 懒人版本
 
-Keygen v1.4 Whit Fix Host + Register Online...
+Keygen v1.5 Whit Fix Host + Register Online...
 
-Xmanager_PowerSuite_v6.0.0011r_Incl_Keygen_v1.4_DFoX_URET.rar
+Xmanager_PowerSuite_v6.0.0014r_Incl_Keygen_v1.5_DFoX.rar
 
 ```txt
-https://www50.zippyshare.com/v/EaXxQsMV/file.html
+https://www87.zippyshare.com/v/nU9pvEXj/file.html
 ```
 
 该文件包含注册版 Xmanager Power Suit 6 和一个 8in1 算号器。
 
 ```txt
-1.Uninstall all previous version of Xmanager..
-2.Run Keygen and Click on Fix Host + Register
-3.Install XmanagerPowerSuite-6.0.0009r.exe whit Serial Generated
+Uninstall all previous version of Xmanager..
+Run Keygen and Click on Fix Host + Register
+3.Install XmanagerPowerSuite-6.0.0014r.exe whit Serial Generated
 4.Enjoy...
-```
-
-Latest Single Register Exe Installation File :
-
-* 1.Xmanager Power Suite 6 Build 0011r
-
-```txt
-https://www50.zippyshare.com/v/XKmtpriv/file.html
-```
-
-* 2.Xmanager 6 Build 0103r
-
-```txt
-https://www50.zippyshare.com/v/SFlS2dj8/file.html
-```
-
-* 3.Xshell Plus 6 Build 0011r
-
-```txt
-https://www50.zippyshare.com/v/hsWji6VJ/file.html
-```
-
-* 4.Xshell 6 Build 0109r
-
-```txt
-https://www50.zippyshare.com/v/y3T17Ww4/file.html
-```
-
-* 5.Xftp 6 Build 0103r
-
-```txt
-https://www50.zippyshare.com/v/rPzJLu0l/file.html
-```
-
-* 6.Xlpd 6 Build 0100r
-
-```txt
-https://www50.zippyshare.com/v/PMv4y0QM/file.html
 ```
 
 ---
@@ -171,79 +133,33 @@ GitHub 的 Python 程序中没有 Xshell Plus 的代码，因此可以使用上�
 官方下载地址：
 
 ```txt
-Xmanager power suit 6 Build 0014, Feb 01, 2019
+Xmanager power suit 6 Build 0017, Apr 03, 2019
 
-https://cdn.netsarang.net/4e3c2e03/XmanagerPowerSuite-6.0.0014r.exe
+https://cdn.netsarang.net/b90b1607/XmanagerPowerSuite-6.0.0017r.exe
 
-XshellPlus 6 Build 0014, Feb 01, 2019
+XshellPlus 6 Build 0017, Apr 03, 2019
 
-https://cdn.netsarang.net/4e3c2e03/XshellPlus-6.0.0014r.exe
+https://cdn.netsarang.net/b90b1607/XshellPlus-6.0.0017r.exe
 
-Xshell 6 Build 0115, Feb 01, 2019
+Xshell 6 Build 0121, Apr 03, 2019
 
-https://cdn.netsarang.net/4e3c2e03/Xshell-6.0.0115r.exe
+https://cdn.netsarang.net/b90b1607/Xshell-6.0.0121r.exe
 
-Xftp 6 Build 0109, Feb 01, 2019
+Xftp 6 Build 0115, Apr 03, 2019
 
-https://download.netsarang.com/4e3c2e03/Xftp-6.0.0109r.exe
+https://cdn.netsarang.net/b90b1607/Xftp-6.0.0115r.exe
 
-Xmanager 6 Build 0109, Feb 01, 2019
+Xmanager 6 Build 0115, Apr 03, 2019
 
-https://cdn.netsarang.net/4e3c2e03/Xmanager-6.0.0109r.exe
+https://cdn.netsarang.net/b90b1607/Xmanager-6.0.0115r.exe
 
-Xlpd 6 Build 0106, Feb 01, 2019
+Xlpd 6 Build 0112, Apr 03, 2019
 
-https://cdn.netsarang.net/4e3c2e03/Xlpd-6.0.0106r.exe
-
-注册码：190131-116699-999254
-
-https://cdn.netsarang.net/53f70531/Xlpd-6.0.0105r.exe
+https://cdn.netsarang.net/b90b1607/Xlpd-6.0.0112r.exe
 
 注册码：190131-116699-999254
 
-gitlab仓库集合大全，选择其中任意一个仓库即可：
-
-http://git.gupaoedu.com/ldqk/soft
-
-https://tohjo.eu/ldqk/soft
-
-http://www.cxysq.com/ldqk/soft
-
-http://www.thinklev.com/masuit/soft
-
-http://183.91.54.237:7080/masuit/soft/tree/master
-
-https://git.diqi.sh/masuit/soft
-
-http://www.mgccar.cn/masuit/soft
-
-http://www.icegod.org/masuit/soft
-
-http://101.132.121.238/masuit/soft
-
-http://sleepace.cn/masuit/soft
-
-http://anygit.anysdk.com:7080/masuit/soft
-
-https://gitlab.huduntech.com/masuit/soft
-
-http://gitlab.informatika.org/ldqk/soft
-
-https://gitlab.camlcity.org/masuit/soft(有延迟)
-
-http://gitlab.frp.dzkandian.com/masuit/soft(有延迟)
-
-http://www.guanyuhome.com/masuit/soft/tree/master(可能有延迟)
-
-https://gitlab.flux.utah.edu/masuit/soft(可能有延迟)
-
-https://git.maxr.org/ldqk/soft
-
-蓝奏云：https://www.lanzous.com/b529249/
-
-其他稀缺资源：https://yun.naodai.org/Software/
-
-最后一击：
+激活工具：
 
 https://gitlab.com/masuit/soft
 ```
@@ -251,6 +167,6 @@ https://gitlab.com/masuit/soft
 ------
 
 作者 [@Mannix][1]     
-2019 年 1月 31日
+2019 年 4月 7日
 
 [1]: http://mannix.top/
