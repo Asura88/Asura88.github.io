@@ -1,5 +1,7 @@
 ﻿# Xmanager power suit 6 最新版注册
 
+标签：Xshell Xmanager
+
 ------
 
 ## 手工操作步骤
@@ -18,9 +20,9 @@ https://www.netsarang.com/zh/all-downloads/
 
 ![image.png](https://whitecell.io/upload/attach/201904/_WUR876YC9K5B2XR.png)
 
-比如我的下载地址是 `https://cdn.netsarang.net/b90b1607/XmanagerPowerSuite-6.0.0017.exe`
+比如我的下载地址是 `https://cdn.netsarang.net/6e702c09/XmanagerPowerSuite-6.0.0018.exe`
 
-修改之后下载地址是 `https://cdn.netsarang.net/b90b1607/XmanagerPowerSuite-6.0.0017r.exe`
+修改之后下载地址是 `https://cdn.netsarang.net/6e702c09/XmanagerPowerSuite-6.0.0018r.exe`
 
 这就是注册版文件的最新版本。
 
@@ -42,44 +44,7 @@ REG DELETE HKEY_CURRENT_USER\Software\NetSarang /f
 
 * 第五步：使用 Xmanager-keygen 生成序列号。
 
-```
-DoubleLabyrinth/Xmanager-keygen: A keygen for Xmanager
-
-https://github.com/DoubleLabyrinth/Xmanager-keygen
-
-DoubleLabyrinth/Xmanager-keygen: A keygen for Xmanager
-
-https://github.com/DoubleLabyrinth/Xmanager-keygen
-
-https://github.com/DoubleLabyrinth/Xmanager-keygen
-
-https://github.com/DoubleLabyrinth
-
-https://github.com/DoubleLabyrinth/Xmanager-keygen
-
-A keygen for Xmanager
-
-https://github.com/DoubleLabyrinth/Xmanager-keygen/archive/master.zip
-
-Xmanager-keygen
-
-A keygen for Xmanager
-
-How does it work
-
-TODO
-
-How to use
-
-Just run it.
-```
-
-```txt
-C:\Users\Foair\Desktop\Xmanager-keygen>Xmanager-keygen.py
-171215-116185-999774
-```
-
-然后使用该序列号安装注册版 Xmanager Power Suit。
+使用序列号安装注册版 Xmanager Power Suit。
 
 ![Snipaste_2018-10-20_02-15-31.png](https://whitecell.io/upload/attach/201810/151_VYANXMU5B598UFN.png "Snipaste_2018-10-20_02-15-31.png")
 
@@ -133,29 +98,21 @@ GitHub 的 Python 程序中没有 Xshell Plus 的代码，因此可以使用上�
 官方下载地址：
 
 ```txt
-Xmanager power suit 6 Build 0017, Apr 03, 2019
+Xmanager power suit 6 Build 0018, Jun 05, 2019
 
-https://cdn.netsarang.net/b90b1607/XmanagerPowerSuite-6.0.0017r.exe
+https://cdn.netsarang.net/6e702c09/XmanagerPowerSuite-6.0.0018r.exe
 
-XshellPlus 6 Build 0017, Apr 03, 2019
+XshellPlus 6 Build 0018, Jun 05, 2019
 
-https://cdn.netsarang.net/b90b1607/XshellPlus-6.0.0017r.exe
+https://cdn.netsarang.net/6e702c09/XshellPlus-6.0.0018r.exe
 
-Xshell 6 Build 0121, Apr 03, 2019
+Xshell 6 Build 0125, Jun 05, 2019
 
-https://cdn.netsarang.net/b90b1607/Xshell-6.0.0121r.exe
+https://cdn.netsarang.net/6e702c09/Xshell-6.0.0125r.exe
 
-Xftp 6 Build 0115, Apr 03, 2019
+Xftp 6 Build 0119, Jun 05, 2019
 
-https://cdn.netsarang.net/b90b1607/Xftp-6.0.0115r.exe
-
-Xmanager 6 Build 0115, Apr 03, 2019
-
-https://cdn.netsarang.net/b90b1607/Xmanager-6.0.0115r.exe
-
-Xlpd 6 Build 0112, Apr 03, 2019
-
-https://cdn.netsarang.net/b90b1607/Xlpd-6.0.0112r.exe
+https://cdn.netsarang.net/6e702c09/Xftp-6.0.0119r.exe
 
 注册码：190131-116699-999254
 
@@ -167,6 +124,6 @@ https://gitlab.com/masuit/soft
 ------
 
 作者 [@Mannix][1]     
-2019 年 4月 7日
+2019 年 6月 9日
 
 [1]: http://mannix.top/
