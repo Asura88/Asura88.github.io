@@ -20,9 +20,9 @@ https://www.netsarang.com/zh/all-downloads/
 
 ![image.png](https://whitecell.io/upload/attach/201904/_WUR876YC9K5B2XR.png)
 
-比如我的下载地址是 `https://cdn.netsarang.net/6e702c09/XmanagerPowerSuite-6.0.0018.exe`
+比如我的下载地址是 `https://cdn.netsarang.net/e252b828/XmanagerPowerSuite-6.0.0021.exe`
 
-修改之后下载地址是 `https://cdn.netsarang.net/6e702c09/XmanagerPowerSuite-6.0.0018r.exe`
+修改之后下载地址是 `https://cdn.netsarang.net/e252b828/XmanagerPowerSuite-6.0.0021r.exe`
 
 这就是注册版文件的最新版本。
 
@@ -70,18 +70,18 @@ REG DELETE HKEY_CURRENT_USER\Software\NetSarang /f
 
 Keygen v1.5 Whit Fix Host + Register Online...
 
-Xmanager_PowerSuite_v6.0.0014r_Incl_Keygen_v1.5_DFoX.rar
+Xmanager_PowerSuite_v6.0.0020r_Incl_Keygen_v1.5_DFoX.rar
 
 ```txt
-https://www87.zippyshare.com/v/nU9pvEXj/file.html
+https://mega.nz/#!HDQnhCJY!FhjcpGLimbdl4XNllXPO9HDDV_r2L0ol6UsGmj7ZPlg
 ```
 
 该文件包含注册版 Xmanager Power Suit 6 和一个 8in1 算号器。
 
 ```txt
-Uninstall all previous version of Xmanager..
-Run Keygen and Click on Fix Host + Register
-3.Install XmanagerPowerSuite-6.0.0014r.exe whit Serial Generated
+1.Uninstall all previous version of Xmanager..
+2.Run Keygen and Click on Fix Host + Register
+3.Install XmanagerPowerSuite-6.0.xxxxr.exe whit Serial Generated
 4.Enjoy...
 ```
 
@@ -98,21 +98,21 @@ GitHub 的 Python 程序中没有 Xshell Plus 的代码，因此可以使用上�
 官方下载地址：
 
 ```txt
-Xmanager power suit 6 Build 0018, Jun 05, 2019
+Xmanager power suit 6 Build 0021, Aug 13, 2019
 
-https://cdn.netsarang.net/6e702c09/XmanagerPowerSuite-6.0.0018r.exe
+https://cdn.netsarang.net/e252b828/XmanagerPowerSuite-6.0.0021r.exe
 
-XshellPlus 6 Build 0018, Jun 05, 2019
+XshellPlus 6 Build 0021, Aug 13, 2019
 
-https://cdn.netsarang.net/6e702c09/XshellPlus-6.0.0018r.exe
+https://cdn.netsarang.net/e252b828/XshellPlus-6.0.0021r.exe
 
-Xshell 6 Build 0125, Jun 05, 2019
+Xshell 6 Build 0149, Aug 13, 2019
 
-https://cdn.netsarang.net/6e702c09/Xshell-6.0.0125r.exe
+https://cdn.netsarang.net/e252b828/Xshell-6.0.0149r.exe
 
-Xftp 6 Build 0119, Jun 05, 2019
+Xftp 6 Build 0143, Aug 13, 2019
 
-https://cdn.netsarang.net/6e702c09/Xftp-6.0.0119r.exe
+https://cdn.netsarang.net/e252b828/Xftp-6.0.0143r.exe
 
 注册码：190131-116699-999254
 
